@@ -10,3 +10,4 @@
 10. Lshift + D: Object duplication
 12). Shift + left mouse click: Select/Deselect object
 13). Ctrl + L: Link object properties like materials.
+14). Snapping: Magnet icon r (Lshift + tab on/off) (Types: vertex, face, edge etc,.)
