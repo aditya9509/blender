@@ -1,0 +1,12 @@
+1. Scroll mouse button to zoom in and out.
+2. Scroll mouse button pressed: Orbit around an object.
+3. LShift + mouse button press: Pan around.
+4. Select an object + Press G: Move object around
+5. Select an object + Press G + Press X/Y/Z: Fixed axis of movement for the object.
+6. Select object + G + Lshift + X/Y/Z: Don't move object on that axis i.e. allow movement on a plane.
+7. S: Object scaling
+8. R: Object rotation  (X/Y/Z along with it to rotate along that axis. (Can be used for group rotation as well)
+9. LCtrl + A: Apply a transformation
+10. Lshift + D: Object duplication
+12). Shift + left mouse click: Select/Deselect object
+13). Ctrl + L: Link object properties like materials.
